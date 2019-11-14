@@ -58,5 +58,5 @@ gem 'mysql2', '~> 0.4.4'
 gem "bcrypt"
 
 gem "sprockets-rails", :require => "sprockets/railtie"
-gem "bootstrap-sass", "~> 3.3.6"
+gem "bootstrap-sass", "~> 3.4.1"
 gem "jquery-rails"
