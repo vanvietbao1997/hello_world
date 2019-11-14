@@ -1,0 +1,7 @@
+<div class="container">
+	<%=flash[:success] %>
+	<lable><%= @user.name %></lable>
+</div>
+<div>
+	<%= link_to "Logout" , logout_path , method: :delete %>
+</div>
